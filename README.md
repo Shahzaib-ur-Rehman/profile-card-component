@@ -13,7 +13,7 @@
 ### Links
 
 - Solution URL: [Github](https://github.com/Shahzaib-ur-Rehman/profile-card-component)
-- Live Site URL: [Profile-Card-Component](https://your-live-site-url.com)
+- Live Site URL: [Profile-Card-Component](https://profile-card-component-phi-rose.vercel.app/)
 
 ## My process
 
